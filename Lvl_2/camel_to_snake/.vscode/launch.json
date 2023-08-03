@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "/home/viny/42/Exam_Shell/repo_ex_exam/Exam_shell_42_02/Lvl_2/snake_to_camel/camel_to_snake",
+      "program": "/home/viny/42/Exam_Shell/repo_ex_exam/Exam_shell_42_02/Lvl_2/snake_to_camel/camel_to_snake/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
